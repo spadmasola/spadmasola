@@ -1,6 +1,6 @@
-- 👋 Hi, I’m srinivas and work in financial services in Hong Kong.
-- 👀 I’m interested in automating tasks and sourcing financial data outside of the traditional sources.
-- 🌱 I’m currently learning to use python since a year ago and use it primarily to reconcile client trades with various brokers/custodians.
+- 👋 Hi, I’m srinivas padmasola and work in financial services in Hong Kong.
+- 👀 I’m interested in automating tasks and accessing financial data outside of the traditional sources.
+- 🌱 I’m currently using python to reconcile client trades with various brokers/custodians as well as generate MIS on P&L.
 - 💞️ I’m looking to collaborate on ideas that will help asset managers reduce their market data costs, increase efficiency, etc
 - 📫  I can be reached on padmasola@gmail.com
 
